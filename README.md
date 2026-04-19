@@ -25,6 +25,9 @@ Tenho experiência com desenvolvimento de sistemas e suporte técnico, atuando n
 * 🤖 Bot de Discord com sistema de XP e níveis
 * 🧠 Sistema de quiz com banco de dados
 * ⚙️ Projetos de automação
+## 🐍 Contribuições
+
+![Snake](https://github.com/Krystopher23/snk/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Objetivo
 
