@@ -29,7 +29,7 @@ Tenho experiência com desenvolvimento de sistemas e suporte técnico, atuando n
 * 🧠 Sistema de quiz com banco de dados
 * ⚙️ Projetos de automação
 
-### 🤖 Mckenzie Bot (Discord)
+### 🤖 Mckenzie Bot (Discord) VERIFICADO PELO DISCORD!
 
 <img src="https://cdn.discordapp.com/app-icons/750570169130156083/3839c6454788f5ad94d44c87c24bc2a2.png?size=128" width="70"/> Bot de moderação e automação para servidores do Discord, com comandos personalizados e funcionalidades para gerenciamento de comunidade(ATUALMENTE OFFLINE).
 
