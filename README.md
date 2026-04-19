@@ -28,8 +28,14 @@ Tenho experiência com desenvolvimento de sistemas e suporte técnico, atuando n
 * 🤖 Bot de Discord com sistema de XP e níveis
 * 🧠 Sistema de quiz com banco de dados
 * ⚙️ Projetos de automação
-## 🐍 Contribuições
 
+### 🤖 Mckenzie Bot (Discord)
+
+Bot de moderação e automação para servidores do Discord, com comandos personalizados e funcionalidades para gerenciamento de comunidade(ATUALMENTE OFFLINE).
+
+🔗 [Adicionar ao servidor](https://discord.com/oauth2/authorize?client_id=750570169130156083)
+
+## 🐍 Contribuições
 ![Snake](https://github.com/Krystopher23/snk/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Objetivo
