@@ -31,7 +31,7 @@ Tenho experiência com desenvolvimento de sistemas e suporte técnico, atuando n
 
 ### 🤖 Mckenzie Bot (Discord)
 
-Bot de moderação e automação para servidores do Discord, com comandos personalizados e funcionalidades para gerenciamento de comunidade(ATUALMENTE OFFLINE).
+<img src="https://discord.com/developers/applications/750570169130156083" width="120"/> Bot de moderação e automação para servidores do Discord, com comandos personalizados e funcionalidades para gerenciamento de comunidade(ATUALMENTE OFFLINE).
 
 🔗 [Adicionar ao servidor](https://discord.com/oauth2/authorize?client_id=750570169130156083)
 
