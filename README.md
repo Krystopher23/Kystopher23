@@ -18,7 +18,7 @@ Tenho experiência com desenvolvimento de sistemas e suporte técnico, atuando n
 
 ## 🏅 Certificações
 
-* AWS (adicione sua badge aqui)
+[![AWS Badge](https://images.credly.com/images/...)](https://www.credly.com/badges/3fe70859-5227-4136-b192-a2d710c601ae/public_url)
 
 ## 📌 Projetos
 
