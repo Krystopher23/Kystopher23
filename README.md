@@ -17,9 +17,12 @@ Tenho experiência com desenvolvimento de sistemas e suporte técnico, atuando n
 * Suporte técnico e manutenção
 
 ## 🏅 Certificações
+
 <a href="https://www.credly.com/badges/3fe70859-5227-4136-b192-a2d710c601ae/public_url">
   <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="200"/>
 </a>
+
+
 ## 📌 Projetos
 
 * 🤖 Bot de Discord com sistema de XP e níveis
