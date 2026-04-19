@@ -1,1 +1,31 @@
-# Kystopher23
+# 👋 Olá, eu sou o KJ.
+
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor Backend (JavaScript & Python)
+🛠️ Técnico de TI & Suporte
+☁️ Estudando AWS
+
+Tenho experiência com desenvolvimento de sistemas e suporte técnico, atuando na resolução de problemas tanto em software quanto em hardware.
+
+## 🧠 Tecnologias
+
+* JavaScript (Node.js)
+* Python
+* MongoDB
+* Discord.js
+* AWS (iniciante)
+* Suporte técnico e manutenção
+
+## 🏅 Certificações
+
+* AWS (adicione sua badge aqui)
+
+## 📌 Projetos
+
+* 🤖 Bot de Discord com sistema de XP e níveis
+* 🧠 Sistema de quiz com banco de dados
+* ⚙️ Projetos de automação
+
+## 🚀 Objetivo
+
+Me tornar um desenvolvedor backend sólido, com foco em cloud (AWS) e sistemas escaláveis.
